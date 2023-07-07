@@ -25,6 +25,7 @@
 }
 .item:hover{
     color: crimson;
+    cursor: pointer;
 }
 .banner-section{
     height: 100vh;
@@ -55,7 +56,7 @@
     font-size: 15px;
 }
 .btn:hover{
-    background-color: rgb(196, 31, 64);
+    background-color: rgb(83, 77, 78);
     cursor: pointer;
 }
 .headline-2{
